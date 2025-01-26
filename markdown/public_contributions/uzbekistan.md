@@ -53,6 +53,11 @@ There are `971 users`  in Uzbekistan. You need at least `15 followers` to be on 
 			</a>
 		</td>
 		<td>
+			<a href="[https://twitter.com/intent/tweet?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Uzbekistan&url=https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/uzbekistan.md](https://github.com/AbdulazizbekS/)">
+				<img src="[https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg](https://github.com/AbdulazizbekS/)" height="48" width="48" alt="Twitter"/>
+			</a>
+		</td>
+		<td>
 			<a href="https://web.whatsapp.com/send?text=Top%20GitHub%20Users%20By%20Public%20Contributions%20in%20Uzbekistan https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/uzbekistan.md">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
 			</a>
